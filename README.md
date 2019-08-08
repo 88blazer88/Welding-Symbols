@@ -61,44 +61,80 @@ Starting with "Arrow Side" on Reference line as follows: 1=top left, 2=bottom le
 9-12 shall be "Both Sides" of Reference line.
 
 Position 1, Arrow side, Top Left
+
 Position 2, Arrow side, Bottom Left
+
 Position 3, Arrow side, Top Right
+
 Position 4, Arrow Side, Bottom Right
+
 Position 5, Other side, Top Left
+
 Position 6, Other side, Bottom Left
+
 Position 7, Other side, Top Right
+
 Position 8, Other Side, Bottom Right
+
 Position 9, Both sides, Top Left
+
 Position 10, Both sides, Bottom Left
+
 Position 11, Both sides, Top Right
+
 Position 12, Both Sides, Bottom Right
+
 
 ############################################
 
 Fillet Weld:    F**.dxf
+
 Plug/Slot Weld: Plug**.dxf
+
 Spot Weld:      Slot**.dxf
+
 Stud Weld:      Stud**.dxf
+
 Seam Weld:      Seam**.dxf
+
 Back:           Back**.dxf
+
 Surfacing Weld: Surf**.dxf
+
 Edge Weld:       Edge**.dxf
+
 Square Weld:    Squr**.dxf
+
 V-Groove Weld:  Vgrv**.dxf
+
 Bevel Weld:     Bev***.dxf
+
 U-Groove Weld:  Ugrv**.dxf
+
 J-Groove Weld:  Jgrv**.dxf
+
 Flare-V Weld:   FlarV*.dxf
+
 Flare-Bevel:    FlrBv*.dxf
+
 Scarf:          Scarf*.dxf
+
 Field Weld:     Field*.dxf
+
 Melt-Thru:      Melthru.dxf
+
 Consum  Insert: Cinsrt.dxf
+
 Backing:        Backing*.dxf
+
 Spacer:         Space*.dxf
+
 Flush contour:  confl*.dxf
+
 Convex contour: concv**.dxf
+
 Concave contour:concc**.dxf
+
 Weld All Around:WldAllRnd.dxf
 
 ############################################

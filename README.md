@@ -19,8 +19,14 @@ Many thanks to LibreCAD, LibreOffice, Linux Mint, Linux and Open Source communit
 A big thank you to the students of Bates Technical College Welding Program for creating the welding symbols block library. Many hours of work was done in class and outside during personal time at home, again, Thank You!
 
 
-Sincerely,
 Bates Welding Program, 2019
+
+Linux users: 
+Copy and paste into /usr/share/LibreCAD/library/ note: you must have root privaleges to add files to the library folder.
+
+Windows: copy and paste or extract zip directly into the folder LibreCAD installed into. Most likely c:/windows/program files(x86)/LibreCAD/resources/library.
+
+As an alternative, you can extract the library to a folder and use the LibreCAD option to link the new folder. We found some systems wouldn't link the new folder properly, but some systems did. In LibreCAD, "Options" tab-->"Application Preferences"-->"Path" tab. Here you can enter the library folder's path to LibreCAD.
 
 -------------------------------------------------------------------------------------------------------------
 
